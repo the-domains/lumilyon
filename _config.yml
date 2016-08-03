@@ -1,0 +1,14 @@
+layout_spectrum: 0.7180451
+color:
+  saturation: 0.4062976
+  lightness: 0.5725258
+  brandStrength: 0.6757408
+  brandColors:
+    - '#FEF7DB'
+    - '#CBBCA9'
+    - '#2A263F'
+    - '#4F4A6B'
+    - '#6C6F90'
+  rhythmicContrast: 0.2790479
+typography_spectrum: 0.7824919
+name: Lumilyon
